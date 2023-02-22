@@ -1,0 +1,61 @@
+
+
+
+.main {
+
+    height: 400px;
+    display: flex;
+    margin: 30px;
+    
+}
+.ecranNoir {
+   border : 1px solid  red;
+    width: 70%;
+    height: 100%;
+    margin-right: 10px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.section {
+   
+    width: 30%;
+    height: 100%;
+}
+
+.test {
+    margin: 30px;
+}
+
+.row1{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+.row2{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+.row3{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+.row4{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+.row5{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+.row6{
+    border : 1px solid orange;
+    height:16% ;
+    width: 100%;
+}
+
+

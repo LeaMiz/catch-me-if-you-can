@@ -1,0 +1,32 @@
+var main = document.getElementById("main")
+var section = document.getElementById("section")
+var input = document.getElementById("input")
+var btn = document.createElement("btn")
+var btn1 = document.createElement("btn1")
+    section.append(btn1)
+    btn1.innerText = "click me"
+init()
+function init(){
+    main.append( btn)
+    btn.innerText = "Catch me if you can !"
+    btn.addEventListener("click", start)
+
+
+}
+function start(){
+
+}
+
+
+
+function createGame() {
+    Milieu = document.createElement("div")
+    Milieu.className = 'row justify-content-between'
+    document.getElementById("main").append(Milieu)
+
+    ecranNoir = document.createElement("div")
+    ecranNoir.className = 'section col-md-8 bleu'
+    document.getElementById("main").ontainer1append(ecranNoir)
+
+}
+createGame()
